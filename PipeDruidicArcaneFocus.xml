@@ -1,0 +1,12 @@
+	<element name="Pipe" type="Item" source="Noctesera's Collection" id="ID_NOC_HMBRW_ITEM_PIPE">
+		<description>
+			<p>A mixed druidic and arcane focus may be a unique item or piece of themselves such as a pipe, a compass, a tattoo, or even shackle. These focuses usally include some remanent or reminder of thier past or personality.</p>
+		</description>
+		<setters>
+			<set name="category">Spellcasting Focus</set>
+			<set name="cost" currency="gp">1</set>
+			<set name="weight" lb="0">—</set>
+			<set name="container">Druidic Focus</set>
+			<set name="slot">onehand</set>
+		</setters>
+	</element>
